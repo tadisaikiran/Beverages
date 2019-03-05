@@ -1,0 +1,24 @@
+{
+    "Beverages": [
+        {
+            "BeverageId": "1",
+            "Name": "Sparkling Strawberry Punch"
+        },
+        {
+            "BeverageId": "2",
+            "Name": "Raspberry Fizz"
+        },
+        {
+            "BeverageId": "3",
+            "Name": "Virgin Margerita"
+        },
+        {
+            "BeverageId": "2",
+            "Name": "Chocolate Delight"
+        },
+        {
+            "BeverageId": "2",
+            "Name": "Summer Punch"
+        }
+    ]
+}
